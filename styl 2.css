@@ -14,3 +14,23 @@ h1{
 	font-size: 20px;
 	color: white;
 }
+#name{
+	width: 500px;
+	padding:10px;
+	border-radius: 10px;
+}
+#email{
+width: 500px;
+	padding:10px;
+	border-radius: 10px;
+}	
+#number{
+	padding:10px;
+	border-radius: 10px;	
+width: 500px;
+}
+#dropdown{
+padding:10px;
+border-radius: 10px;	
+width: 500px;
+}
