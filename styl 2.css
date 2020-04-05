@@ -5,3 +5,12 @@ body{
 h1{
 	font-size: 40px;
 }
+#body{
+	background-image: linear-gradient(to bottom left,#31adff,#7300ef);
+	width: 600px;
+	padding: 30px;
+	margin: auto;
+	text-align: left;
+	font-size: 20px;
+	color: white;
+}
